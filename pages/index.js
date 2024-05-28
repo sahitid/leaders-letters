@@ -8,7 +8,8 @@ export async function getStaticProps() {
   }
 }
 
-export default function Home() {
+export default function Home({ letters }) {
+  console.log(letters);
   return (
     <div className="dark:text-white dark:bg-black">
       <HeadObject>
@@ -21,7 +22,9 @@ export default function Home() {
           <h1 className='text-5xl font-bold'>Letters From Leaders</h1>
           <h2 className='text-xl font-semibold'>... to Leaders</h2>
         </div>
+        <a href='https://hackclub.slack.com/team/U03RU99SGKA' target='blank'>
         <button className='bg-blue-500 border-2 border-black font-semibold text-white w-32 rounded-lg px-2 py-1 text-sm'>Message @sahiti on Slack to Submit Your Own!</button>
+      </a>
       </div>
 
       <div className='flex flex-row items-center justify-center gap-4'>
@@ -40,25 +43,14 @@ export default function Home() {
       </div>
 
       <div className='grid lg:grid-cols-3 md:grid-cols-2 grid-cols-1 gap-5 mx-10'>
-        <div className='flex flex-col bg-purple-300 p-5 rounded-lg border-2 border-black items-center justify-center gap-2 h-48'>
-          <p className='px-2 py-1 bg-white border-2 border-black text-sm font-medium rounded-md'>date</p>
-          <h3 className='font-semibold'>title of blog</h3>
-
-        </div>
-
-        <div className='flex flex-col bg-pink-300 p-5 rounded-lg border-2 border-black items-center justify-center gap-2 h-48'>
-          <p className='px-2 py-1 bg-white border-2 border-black text-sm font-medium rounded-md'>date</p>
-          <h3 className='font-semibold'>title of blog</h3>
-
-        </div>
-
-        <div className='flex flex-col bg-green-300 p-5 rounded-lg border-2 border-black items-center justify-center gap-2 h-48'>
-          <p className='px-2 py-1 bg-white border-2 border-black text-sm font-medium rounded-md'>date</p>
-          <h3 className='font-semibold'>title of blog</h3>
-
-        </div>
-  
-
+        {letters.map((l, i) => (
+          <a href={`/letter/${l.slug}`}>
+            <div key={i} className='flex flex-col bg-purple-300 p-5 rounded-lg border-2 border-black items-center justify-center gap-2 h-48'>
+              <p className='px-2 py-1 bg-white border-2 border-black text-sm font-medium rounded-md'>{l.date}</p>
+              <h3 className='font-semibold'>{l.title}</h3>
+            </div>
+          </a>
+        ))}
       </div>
 
 
