@@ -1,5 +1,12 @@
 import HeadObject from '../components/head'
 import Nav from '../components/nav';
+import { getLetters } from '../lib/LettersData';
+
+export async function getStaticProps() {
+  return {
+    props: { letters: getLetters() }
+  }
+}
 
 export default function Home() {
   return (
@@ -9,6 +16,7 @@ export default function Home() {
       </HeadObject>
       <Nav />
       <div className='flex items-center justify-center gap-5 px-20 py-10 border-b-2 border-black mb-20'>
+        <img className='w-10' src='https://cloud-gzo47uw7p-hack-club-bot.vercel.app/0mail-icon.svg'></img>
         <div>
           <h1 className='text-5xl font-bold'>Letters From Leaders</h1>
           <h2 className='text-xl font-semibold'>... to Leaders</h2>
