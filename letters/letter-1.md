@@ -5,6 +5,7 @@ description: >
 author: 'sahiti-dasari'
 thumbnail: 'https://cloud-lt9ndoubi-hack-club-bot.vercel.app/0image_2.png'
 keywords: 'club meeting, blot, youtube video'
+date: 'May 28th, 2024'
 ---
 
 Author: [@sahitid](https://github.com/sahitid "View @sahitid on GitHub")
