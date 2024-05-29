@@ -19,7 +19,7 @@ export default function Home({ letters }) {
       </HeadObject>
       <Nav />
       <div className='flex items-center justify-center gap-5 px-20 py-10 border-b-2 border-black mb-20'>
-        <img className='w-10' src='https://cloud-gzo47uw7p-hack-club-bot.vercel.app/0mail-icon.svg'></img>
+        <img className='w-10' src='https://cloud-gzo47uw7p-hack-club-bot.vercel.app/0mail-icon.svg' alt='Mail Icon'></img>
         <div>
           <h1 className='text-5xl font-bold'>Letters From Leaders</h1>
           <h2 className='text-xl font-semibold'>... to Leaders</h2>
