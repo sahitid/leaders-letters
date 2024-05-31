@@ -45,11 +45,11 @@ export default function Home({ letters }) {
       )}
 
       <div className='grid lg:grid-cols-3 md:grid-cols-2 grid-cols-1 gap-5 mx-10'>
-        {otherLetters.map((l, i) => (
+        {otherLetters.reverse().map((l, i) => (
           <a key={i} href={`/letter/${l.slug}`}>
-            <div className='flex flex-col p-5 rounded-lg border-2 border-black items-center justify-center gap-2 h-48' style={{backgroundColor:l.color}}>
+            <div className='flex flex-col p-5 rounded-lg border-2 border-black items-center justify-center gap-5 h-48' style={{backgroundColor:l.color}}>
               <p className='px-2 py-1 bg-white border-2 border-black text-sm font-medium rounded-md'>{l.date}</p>
-              <h3 className='font-semibold'>{l.title}</h3>
+              <h3 className='font-semibold text-center'>{l.title}</h3>
             </div>
           </a>
         ))}

@@ -7,8 +7,8 @@ thumbnail: 'https://cloud-lt9ndoubi-hack-club-bot.vercel.app/0image_2.png'
 keywords: 'club meeting, blot, youtube video'
 date: 'May 28th, 2024'
 authorImage: ''
-color: '#F8A5ED'
-slug: 'title-one'
+color: '#D3B4F8'
+slug: 'title-two'
 ---
 
 Author: [@sahitid](https://github.com/sahitid "View @sahitid on GitHub")
