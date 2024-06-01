@@ -5,7 +5,7 @@ description: >
 author: 'cosmin'
 thumbnail: 'https://cloud-4y7g35vgz-hack-club-bot.vercel.app/0img-20240309-wa0061.jpg'
 keywords: 'club meeting, bbq, food meeting, coding club meeting, barbeque, shenanigans'
-date: 'May 31st, 2024'
+date: 'May 30th, 2024'
 authorImage: ''
 color: '#F8A5ED'
 slug: 'dinosaur-bbq'
@@ -23,9 +23,8 @@ So we made our plans: we were gonna do a BBQ and a sprig workshop at a member's 
 
 First, we gathered resources: Simone and Maria bought the meat with our HCBcard, I brought some sodas, Marc brought spices, and everyone came in with their laptops.
 
-> We had to take a train to a town near the venue, and we put a hc sticker in it:
-
 ![sticker!](https://cloud-crzden5u1-hack-club-bot.vercel.app/0img-20240309-wa0071.jpg)
+> We had to take a train to a town near the venue, and we put a Hack Club sticker in it
 
 At nearly every stop, I thought it was our turn to get off and stood up to check, which made the others laugh because they could see out the window and knew it wasn't.
 
@@ -48,7 +47,7 @@ The food was finally ready and we got to eating
 
 ![people staring at food](https://cloud-86es9guuu-hack-club-bot.vercel.app/0img-20240309-wa0104.jpg)
 
-After eating, we took a stroll through the closed waterpark and the regular park inside it. We found a spinning wheel and half of us got dizzy and sick, but after 10 minutes, we felt better and decided to spin again. [click here to watch us spinning](https://drive.google.com/file/d/13mJsRcLYoi6l9GEcA4Y_LnczJKJPK1rn/view?usp=sharing)
+After eating, we took a stroll through the closed waterpark and the regular park inside it. We found a spinning wheel and half of us got dizzy and sick, but after 10 minutes, we felt better and decided to spin again. [Click here to watch us spinning!](https://drive.google.com/file/d/13mJsRcLYoi6l9GEcA4Y_LnczJKJPK1rn/view?usp=sharing)
 
 At the end of our tour, we also took a group photo with the more senior members:
 ![group photo](https://cloud-4y7g35vgz-hack-club-bot.vercel.app/0img-20240309-wa0061.jpg)

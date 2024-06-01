@@ -36,9 +36,9 @@ export default function Home({ letters }) {
               <img className='rounded-xl border-2 border-black' src='https://letsenhance.io/static/8f5e523ee6b2479e26ecc91b9c25261e/1015f/MainAfter.jpg' alt='Letter Thumbnail' />
               <p className='px-2 py-1 bg-white border-2 border-black text-sm font-medium absolute top-2 left-2 rounded-md'>{firstLetter.date}</p>
             </div>
-            <div className='flex flex-col'>
+            <div className='flex flex-col max-w-md'>
               <h3 className='font-semibold text-lg'>{firstLetter.title}</h3>
-              <p>{firstLetter.description.substring(0, 100)}...</p>
+              <p className='text-gray-500'>{firstLetter.description.substring(0, 100)}... <span className="font-bold underline">read more</span></p>
             </div>
           </div>
         </a>
