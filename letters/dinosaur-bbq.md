@@ -3,7 +3,7 @@ title: 'Dinosaur BBQ'
 description: >
   For context, we typically hold our club meetings at a pizza place. However, with some new members joining in recent times, we wanted to do something more fun and affordable. So, we decided to cook our own food– and what better way to do that than a BBQ!
 author: 'cosmin'
-thumbnail: 'https://cloud-4y7g35vgz-hack-club-bot.vercel.app/0img-20240309-wa0061.jpg'
+thumbnail: 'https://cloud-fnzmvfxa1-hack-club-bot.vercel.app/00img-20240309-wa0061__1___1_.jpg'
 keywords: 'club meeting, bbq, food meeting, coding club meeting, barbeque, shenanigans'
 date: 'May 30th, 2024'
 authorImage: ''
