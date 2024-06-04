@@ -26,8 +26,8 @@ export default function Home({ letters }) {
           <h2 className='text-3xl font-semibold'>... to Leaders</h2>
           <p className='text-xl gap-2'>Stories, insights, and experiences shared within the Hack Club community — by leaders for leaders.</p>
         </div>
-        <a href='https://hackclub.slack.com/team/U03RU99SGKA' target='_blank'>
-          <button className='bg-blue-500 border-2 border-black font-semibold text-white w-32 rounded-lg px-2 py-1 text-sm'>Message @sahiti on Slack to Submit Your Own!</button>
+        <a href='https://hackclub.com/clubs/' target='_blank'>
+          <button className='bg-blue-500 border-2 border-black font-semibold text-white w-36 rounded-lg px-2 py-1 text-md'>Apply to Become a Hack Club Leader!</button>
         </a>
       </div>
 
@@ -56,6 +56,9 @@ export default function Home({ letters }) {
           </a>
         ))}
       </div>
+      <footer className="bg-dark-pink/20 flex items-center justify-center py-4">
+    <a href='https://github.com/sahitid/leaders-letters' target='blank'><p>💌 this website is open source at sahitid/leaders-letters.</p></a>
+    </footer>
     </div>
   )
 }
