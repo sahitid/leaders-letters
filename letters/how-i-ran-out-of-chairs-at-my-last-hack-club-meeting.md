@@ -1,9 +1,9 @@
 ---
-title: 'A How I Ran Out of Chairs At My Last Hack Club Meeting'
+title: 'How I Ran Out of Chairs At My Last Hack Club Meeting'
 description: >
   if you’ve read the title already - yes, the room was that full. i’m sahiti, a hack clubber from atlanta, georgia. and this crazy story started approximately two weeks ago when my friend dieter said this to me:
 author: 'Sahiti Dasari'
-thumbnail: 'https://cloud-5fe5iy2hn-hack-club-bot.vercel.app/0group_1.png'
+thumbnail: 'https://cloud-lze7wm2z8-hack-club-bot.vercel.app/0thumbnail_letters__1_.png'
 keywords: 'club meeting, blot, youtube video'
 date: 'June 4th, 2024'
 authorImage: 'https://cloud-99fwanivs-hack-club-bot.vercel.app/0profile.jpg'

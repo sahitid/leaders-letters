@@ -10,8 +10,9 @@ export async function getStaticProps() {
 
 export default function Home({ letters }) {
   console.log(letters);
-  const [firstLetter, ...otherLetters] = letters; // Destructure the first letter separately
-
+  // const [firstLetter, ...otherLetters] = letters; // Destructure the first letter separately
+  const firstLetter = letters.find(l => l.slug === 'how-i-ran-out-of-chairs');
+  const otherLetters = letters.filter(letter => letter.slug !== 'how-i-ran-out-of-chairs');
   return (
     <div className="dark:text-white dark:bg-black">
       <HeadObject>
