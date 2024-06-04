@@ -21,6 +21,8 @@ i’m sahiti, a hack clubber from atlanta, georgia. and this crazy story started
 
 ![a slack message from deet at 8:33 pm reads: "hey sahiti, lol this is a wild idea but i think it would be amazing if we could make it work!!"](https://cloud-jsqnd5vlf-hack-club-bot.vercel.app/0image.png)
 
+[hack club](https://hackclub.com/) is the largest community of teen hackers online, support by the club leaders who run their own technology (coding) clubs at their own school or community. it’s completely free to join, but is a huge network of likeminded teens and space with made cool technology grant projects such as [onboard](https://hackclub.com/onboard/) and [boba drops](https://boba.hackclub.com/).
+
 dieter’s plan was simple (though i still had my many doubts): 1. it included me having the most epic club meeting ever 2. it meant him flying all the way from vermont (where he was the videographer at hack club hq) and 3. creating the most viral, all-around fire documentary on what it meant to be a club leader (something that hack club didn’t have yet).
 
 but like all crazy, wild hack club ideas, we said “let’s go for it”.
@@ -108,5 +110,7 @@ i learned about hack club through a medium article written by zach latta about t
 watch the full documentary that dieter made here:
 
 [![inside a high school coding club Thumbnail](https://img.youtube.com/vi/xXIxwV7bQTw/sddefault.jpg)](https://youtu.be/xxixwv7bqtw "Video Title")
+
+> tl;dr: elements that make great hack clubs include enthusiasm from you as a leader! proper marketing, food, and having a great pre-made hands-on experience can also assist with this.
 
 and don’t wait! apply to run your own hack club today, trust me it changed my life: [https://hackclub.com/clubs/](https://hackclub.com/clubs/)
