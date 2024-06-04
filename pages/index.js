@@ -23,7 +23,8 @@ export default function Home({ letters }) {
         <img className='w-10' src='https://cloud-gzo47uw7p-hack-club-bot.vercel.app/0mail-icon.svg' alt='Mail Icon'></img>
         <div>
           <h1 className='text-5xl font-bold'>Letters From Leaders</h1>
-          <h2 className='text-xl font-semibold'>... to Leaders</h2>
+          <h2 className='text-3xl font-semibold'>... to Leaders</h2>
+          <p className='text-xl gap-2'>Stories, insights, and experiences shared within the Hack Club community — by leaders for leaders.</p>
         </div>
         <a href='https://hackclub.slack.com/team/U03RU99SGKA' target='_blank'>
           <button className='bg-blue-500 border-2 border-black font-semibold text-white w-32 rounded-lg px-2 py-1 text-sm'>Message @sahiti on Slack to Submit Your Own!</button>
