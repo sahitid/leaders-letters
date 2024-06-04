@@ -96,7 +96,7 @@ by the end of the meeting, the room was packed, the pizza and donuts were gone, 
 ![photos of participants coding and blot machine in action](https://cloud-pskr7w5m3-hack-club-bot.vercel.app/0image.png)
 ## step three: debrief afterwards
 overall the meeting went great. since this article has been a lot of words, here are a few numbers:
--65:  participants (largest meeting yet)
+- 65:  participants (largest meeting yet)
 - 61: percentage of  project creation rate (this number was lower than usual 89%, but more projects in quantity were created)
 - 128: dollars spent on pizza and donuts combined
 - 0: and most importantly, the number of empty chairs left in that room
