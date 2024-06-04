@@ -14,7 +14,7 @@ export default function Home({ letters }) {
   const firstLetter = letters.find(l => l.slug === 'how-i-ran-out-of-chairs');
   const otherLetters = letters.filter(letter => letter.slug !== 'how-i-ran-out-of-chairs');
   return (
-    <div className="dark:text-white dark:bg-black">
+    <div>
       <HeadObject>
         {/* You can put extra tags in here, or leave it blank */}
       </HeadObject>
