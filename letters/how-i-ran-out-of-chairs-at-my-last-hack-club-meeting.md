@@ -5,7 +5,7 @@ description: >
 author: 'Sahiti Dasari'
 thumbnail: 'https://cloud-lze7wm2z8-hack-club-bot.vercel.app/0thumbnail_letters__1_.png'
 keywords: 'club meeting, blot, youtube video'
-date: 'June 4th, 2024'
+date: 'February 14th, 2024'
 authorImage: 'https://cloud-99fwanivs-hack-club-bot.vercel.app/0profile.jpg'
 color: '#9FF9FF'
 slug: 'how-i-ran-out-of-chairs'
