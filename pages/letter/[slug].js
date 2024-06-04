@@ -19,10 +19,12 @@ export default function Letter({ letter }) {
           <Link href="/"><img className='w-10' src='https://cloud-gzo47uw7p-hack-club-bot.vercel.app/0mail-icon.svg' alt='Mail Icon' /></Link>
         </div>
         <h1 className="text-3xl font-bold mt-2">{letter.title}</h1>
+        <a href={letter.github}>
         <div className="flex items-center mt-1">
           <img src={letter.authorImage} alt="Author Image" className="h-8 w-8 rounded-full inline-block mr-2" />
           <h2 className="text-xl font-semibold">{letter.author}</h2>
         </div>
+        </a>
       </div>
 
       {letter.image && (

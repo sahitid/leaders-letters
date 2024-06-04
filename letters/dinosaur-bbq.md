@@ -8,6 +8,7 @@ keywords: 'club meeting, bbq, food meeting, coding club meeting, barbeque, shena
 date: 'March 9th, 2024'
 authorImage: 'https://cloud-h4bjs62vv-hack-club-bot.vercel.app/0image.png'
 color: '#F8A5ED'
+github: ''
 slug: 'dinosaur-bbq'
 ---
 

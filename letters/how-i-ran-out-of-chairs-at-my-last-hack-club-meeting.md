@@ -8,6 +8,7 @@ keywords: 'club meeting, blot, youtube video'
 date: 'February 14th, 2024'
 authorImage: 'https://cloud-99fwanivs-hack-club-bot.vercel.app/0profile.jpg'
 color: '#9FF9FF'
+github: 'https://github.com/sahitid'
 slug: 'how-i-ran-out-of-chairs'
 ---
 
