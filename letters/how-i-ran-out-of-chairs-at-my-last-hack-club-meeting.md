@@ -75,7 +75,7 @@ for example, school administration being against the idea of a “hack club” w
 
 finally, the day of the meeting came. christian, my co-leader, and i were ready to run the most epic hack club meeting ever, featuring blot. we set up the blot machine at the front of the room and connected it to a camera, projecting the live feed onto the board so everyone could see the machine in action.
 
-about an hour prior i picked up over $100 of pizza and donuts through the hack club pizza grant: https://hackclub.com/pizza/ (any coding club with in person meetings can get $100 worth of free food by applying)
+about an hour prior i picked up over $100 of pizza and donuts through the hack club [pizza grant:](https://hackclub.com/pizza/) (any coding club with in person meetings can get $100 worth of free food by applying)
 
 ![pizza being distributed at hack club meeting](https://cloud-g1oe4dqys-hack-club-bot.vercel.app/0image.png)
 
@@ -96,11 +96,10 @@ by the end of the meeting, the room was packed, the pizza and donuts were gone, 
 ![photos of participants coding and blot machine in action](https://cloud-pskr7w5m3-hack-club-bot.vercel.app/0image.png)
 ## step three: debrief afterwards
 overall the meeting went great. since this article has been a lot of words, here are a few numbers:
-65:  participants (largest meeting yet)
-61: percentage of  project creation rate
-this number was lower than usual 89%, but more projects in quantity were created
-128: dollars spent on pizza and donuts combined
-0: and most importantly, the number of empty chairs left in that room
+-65:  participants (largest meeting yet)
+- 61: percentage of  project creation rate (this number was lower than usual 89%, but more projects in quantity were created)
+- 128: dollars spent on pizza and donuts combined
+- 0: and most importantly, the number of empty chairs left in that room
 
 ### step four: don't wait: start a hack club.
 
