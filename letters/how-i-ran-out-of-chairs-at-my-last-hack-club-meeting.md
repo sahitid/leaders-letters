@@ -1,5 +1,5 @@
 ---
-title: 'How I Ran Out of Chairs At My Last Hack Club Meeting'
+title: 'A How I Ran Out of Chairs At My Last Hack Club Meeting'
 description: >
   if you’ve read the title already - yes, the room was that full. i’m sahiti, a hack clubber from atlanta, georgia. and this crazy story started approximately two weeks ago when my friend dieter said this to me:
 author: 'Sahiti Dasari'
