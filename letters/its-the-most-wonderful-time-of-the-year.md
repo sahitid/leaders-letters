@@ -1,5 +1,5 @@
 ---
-title: 'The most wonderful time of the year!'
+title: 'The Most Wonderful Time of the Year!'
 description: >
   *Not quite Christmas, but the club fair!* I’m Phaedra, a hack clubber from Boston, Massachusetts! I run a Hack Club at my school, and here’s the story of how I had the most extravagant table at my school’s club fair.
 author: 'Phaedra Sanon'
@@ -7,7 +7,7 @@ thumbnail: 'https://cloud-f3aepcmxo-hack-club-bot.vercel.app/3img_4431.jpg'
 keywords: 'club fair, club rush, promotion'
 date: 'June 4th, 2024'
 authorImage: 'https://avatars.githubusercontent.com/u/71579580?v=4'
-color: '#9FF9FF'
+color: '#9BFD9F'
 github: 'https://github.com/ph4iry'
 slug: 'its-the-most-wonderful-time-of-the-year'
 ---
