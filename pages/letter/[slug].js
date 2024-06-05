@@ -16,7 +16,7 @@ export default function Letter({ letter }) {
       <div className="p-10 mb-5 border-b-2 border-black py-16" style={{ backgroundColor: letter.color }}>
         <div className='flex items-center justify-between'>
           <p className="text-sm font-medium bg-white border-2 text-sm font-medium border-black inline-block px-2 py-1 rounded-md">{letter.date}</p>
-          <Link href="/"><img className='w-10' src='https://cloud-gzo47uw7p-hack-club-bot.vercel.app/0mail-icon.svg' alt='Mail Icon' /></Link>
+          <Link href="https://hackclub.com/letters"><img className='w-10' src='https://cloud-gzo47uw7p-hack-club-bot.vercel.app/0mail-icon.svg' alt='Mail Icon' /></Link>
         </div>
         <h1 className="text-3xl font-bold mt-2">{letter.title}</h1>
         <a href={letter.github}>
