@@ -27,7 +27,7 @@ The night before at 11 PM, I decided to make some last-minute edits and when I o
 
 Here are the slides that I made: [Hack Club: MS STEAM Day Blot Workshop!](link) (credit me if used!)
 
-After five hours of sleep and multiple hours of panicking, our workshop (surprisingly) went relatively smoothly (until I accidentally unscrewed something and had to search the entire school for an Allen key - but we figured it out). I’m most proud of how we dealt with the malfunctions of Blot during the presentatation (because I stayed up so late working on my slides, I didn't have time to test the robot)
+After five hours of sleep and multiple hours of panicking, our workshop (surprisingly) went relatively smoothly (until I accidentally unscrewed something and had to search the entire school for an Allen key - but we figured it out). I’m most proud of how we dealt with the malfunctions of Blot during the presentatation.
 
 Our setup had the Blot displayed on a table in the center of a stage and a large screen projector for the presentation, and to create the presentation slides, I specifically drew the process out so it was easier to visualize. Explaining specifically angles and how the turtle moves with an actual turtle to visualize was easier since the middle schoolers could see my thought process.
 
