@@ -1,3 +1,4 @@
+--
 title: '300 Middle Schoolers v.s. 2 Hack Club Leaders '
 description: >
   Hi! I’m Michelle Wang - a Hack Clubber from Atlanta, Georgia - and I run the Hack Club at Fulton Science Academy with my friend Paul. We only started our Hack Club in December of 2023, but it’s already changed our lives.
