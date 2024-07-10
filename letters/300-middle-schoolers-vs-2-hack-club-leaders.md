@@ -36,6 +36,7 @@ Our setup had the Blot displayed on a table in the center of a stage and a large
 Overall, the event went extremely smoothly! Some middle schoolers who were passionate about robotics even questioned us about Blot's parts (like servos and stepper motors). We were so excited about how the workshop was sparking interest in the middle schoolers because many of them wanted to go into computer science/engineering as a future career!
 
 Here is a design a middle school coded being printed by the Blot:
+
 <img width="244" alt="Screenshot 2024-07-10 at 9 46 43 AM" src="https://github.com/michelle12349502039/leaders-letters/assets/74428837/53abad82-d461-44c9-9d5c-3ead98a4cdbb">
 
 
