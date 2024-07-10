@@ -35,16 +35,8 @@ Our setup had the Blot displayed on a table in the center of a stage and a large
 
 Overall, the event went extremely smoothly! Some middle schoolers who were passionate about robotics even questioned us about Blot's parts (like servos and stepper motors). We were so excited about how the workshop was sparking interest in the middle schoolers because many of them wanted to go into computer science/engineering as a future career!
 
-<figure>
-  <img width="289" alt="Screenshot 2024-07-10 at 9 46 30 AM" src="https://github.com/michelle12349502039/leaders-letters/assets/74428837/cc67127c-c44a-46f3-956d-fdf9b82d4a23">
-  <figcaption>The middle schoolers even played Hack Club’s game [Sinerider](https://sinerider.com/) - a video game about love and graphing built by Hack Clubbers around the world - after finishing their projects!</figcaption>
-</figure>
-
-
-<figure>
-  <img width="244" alt="Screenshot 2024-07-10 at 9 46 43 AM" src="https://github.com/michelle12349502039/leaders-letters/assets/74428837/53abad82-d461-44c9-9d5c-3ead98a4cdbb">
-  <figcaption>A design a middle school coded being printed by the Blot.</figcaption>
-</figure>
+Here is a design a middle school coded being printed by the Blot.</figcaption>
+<img width="244" alt="Screenshot 2024-07-10 at 9 46 43 AM" src="https://github.com/michelle12349502039/leaders-letters/assets/74428837/53abad82-d461-44c9-9d5c-3ead98a4cdbb">
 
 
 ## Here are some tips for workshops with middle schoolers:
