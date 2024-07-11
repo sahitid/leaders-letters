@@ -31,13 +31,15 @@ After five hours of sleep and multiple hours of panicking, our workshop (surpris
 
 Our setup had the Blot displayed on a table in the center of a stage and a large screen projector for the presentation, and to create the presentation slides, I specifically drew the process out so it was easier to visualize. Explaining specifically angles and how the turtle moves with an actual turtle to visualize was easier since the middle schoolers could see my thought process.
 
-<img width="416" alt="Screenshot 2024-07-10 at 9 46 06 AM" src="https://github.com/michelle12349502039/leaders-letters/assets/74428837/813396b4-488e-4a5e-85ac-909a4d89580e">
+
+![me teaching a lecture on a stage with the Blot IDLE]([https://github.com/michelle12349502039/leaders-letters/assets/74428837/53abad82-d461-44c9-9d5c-3ead98a4cdbb](https://github.com/michelle12349502039/leaders-letters/assets/74428837/813396b4-488e-4a5e-85ac-909a4d89580e))
+
 
 Overall, the event went extremely smoothly! Some middle schoolers who were passionate about robotics even questioned us about Blot's parts (like servos and stepper motors). We were so excited about how the workshop was sparking interest in the middle schoolers because many of them wanted to go into computer science/engineering as a future career!
 
 Here is a design a middle school coded being printed by the Blot:
 
-<img width="244" alt="Screenshot 2024-07-10 at 9 46 43 AM" src="https://github.com/michelle12349502039/leaders-letters/assets/74428837/53abad82-d461-44c9-9d5c-3ead98a4cdbb">
+![blot drawing](https://github.com/michelle12349502039/leaders-letters/assets/74428837/53abad82-d461-44c9-9d5c-3ead98a4cdbb)
 
 
 ## Here are some tips for workshops with middle schoolers:
