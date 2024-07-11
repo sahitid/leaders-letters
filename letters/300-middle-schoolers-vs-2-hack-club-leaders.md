@@ -53,6 +53,8 @@ Here is a design a middle school coded being printed by the Blot:
 ## Hack Club is Life-Changing
 If you were like Paul and me, you were probably freaked out after your onboarding call. We were shocked yet excited about the number of resources that Hack Club offered (especially the very cool pizza grant that we devoured completely). In fact, a month later, we were flown out to San Francisco and participated in The Summit, where we met THE Tom Preston-Werner (aka the co-founder of GitHub).
 
+![me and paul talking with tom preston werner](https://github.com/michelle12349502039/leaders-letters/assets/74428837/9142c51f-c77b-4490-b573-1884e5af5824)
+
 Outside of meeting THE Tom Preston-Werner, Hack Club has pushed me outside of my comfort zone constantly.
 
 ## You Should Start a Hack Club!!
