@@ -18,10 +18,12 @@ Hi! I’m Michelle Wang - a Hack Clubber from Atlanta, Georgia - and I run the H
 
 Our club is different from other Hack Clubs. Due to our literal 200-person high school student body (small private school moment), it's impossible to run a club outside of an academic team and still have people show up. Therefore, Paul and I decided to make use of our club to serve another community around us instead: the younger students.
 
+![me and paul in the car](https://cloud-pg4mmhgjh-hack-club-bot.vercel.app/0img_9682.jpg)
+
 ## Teaching STEM Day 
 Our school's middle school education coordinator invited Paul and me to teach, providing us with a great opportunity to introduce math, art, and coding to the students. However, THEY FAILED TO MENTION THAT IT WAS FOR 300 STUDENTS.
 
-After some consideration, we decided to make our workshop on Blot: Hack Club’s drawing robot because it combined math, art and computer science. All I had to do to receive this very cool robot was submit some code to the github (and possibly spend 7 grueling hours building it).
+After some consideration, we decided to make our workshop on [Blot: Hack Club’s drawing robot](https://blot.hackclub.com/) because it combined math, art and computer science. All I had to do to receive this very cool robot was submit some code to the github (and possibly spend 7 grueling hours building it).
 
 The night before at 11 PM, I decided to make some last-minute edits and when I opened Blot, the whole syntax had changed (I wanted to cry). I stayed up until 1 AM the next day fixing my entire PowerPoint (and Paul brought me coffee since he knew I was going to die on the day of our workshop).
 
@@ -33,6 +35,7 @@ Our setup had the Blot displayed on a table in the center of a stage and a large
 
 
 ![me teaching a lecture on a stage with the Blot IDLE](https://github.com/michelle12349502039/leaders-letters/assets/74428837/813396b4-488e-4a5e-85ac-909a4d89580e)
+> Me teaching a lecture on a stage with the Blot IDLE
 
 
 Overall, the event went extremely smoothly! Some middle schoolers who were passionate about robotics even questioned us about Blot's parts (like servos and stepper motors). We were so excited about how the workshop was sparking interest in the middle schoolers because many of them wanted to go into computer science/engineering as a future career!
@@ -51,7 +54,7 @@ Here is a design a middle school coded being printed by the Blot:
 ## Hack Club is Life-Changing
 If you were like Paul and me, you were probably freaked out after your onboarding call. We were shocked yet excited about the number of resources that Hack Club offered (especially the very cool pizza grant that we devoured completely). In fact, a month later, we were flown out to San Francisco and participated in The Summit, where we met THE Tom Preston-Werner (aka the co-founder of GitHub).
 
-![me and paul talking with tom preston werner](https://github.com/michelle12349502039/leaders-letters/assets/74428837/9142c51f-c77b-4490-b573-1884e5af5824)
+![paul and i talking with tom preston werner](https://github.com/michelle12349502039/leaders-letters/assets/74428837/9142c51f-c77b-4490-b573-1884e5af5824)
 
 Outside of meeting THE Tom Preston-Werner, Hack Club has pushed me outside of my comfort zone constantly.
 
