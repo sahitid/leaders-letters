@@ -18,7 +18,7 @@ Hi! I’m Michelle Wang - a Hack Clubber from Atlanta, Georgia - and I run the H
 
 Our club is different from other Hack Clubs. Due to our literal 200-person high school student body (small private school moment), it's impossible to run a club outside of an academic team and still have people show up. Therefore, Paul and I decided to make use of our club to serve another community around us instead: the younger students.
 
-![me and paul in a selfie](https://cloud-o33pa5crz-hack-club-bot.vercel.app/0image.png)
+![me and paul in a selfie](https://cloud-o33pa5crz-hack-club-bot.vercel.app/0image.png](https://cloud-pg4mmhgjh-hack-club-bot.vercel.app/0img_9682.jpg)
 
 
 ## Teaching STEM Day 
