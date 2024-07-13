@@ -5,7 +5,7 @@ description: >
 author: 'Cosmin'
 thumbnail: 'https://cloud-fnzmvfxa1-hack-club-bot.vercel.app/00img-20240309-wa0061__1___1_.jpg'
 keywords: 'club meeting, bbq, food meeting, coding club meeting, barbeque, shenanigans'
-date: 'March 9th, 2024'
+date: 'May 30th, 2024'
 authorImage: 'https://cloud-h4bjs62vv-hack-club-bot.vercel.app/0image.png'
 color: '#F8A5ED'
 github: ''
