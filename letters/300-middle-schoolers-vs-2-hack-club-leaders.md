@@ -20,7 +20,6 @@ Our club is different from other Hack Clubs. Due to our literal 200-person high 
 
 ![me and paul in a selfie](https://cloud-o33pa5crz-hack-club-bot.vercel.app/0image.png](https://cloud-pg4mmhgjh-hack-club-bot.vercel.app/0img_9682.jpg)
 
-
 ## Teaching STEM Day 
 Our school's middle school education coordinator invited Paul and me to teach, providing us with a great opportunity to introduce math, art, and coding to the students. However, THEY FAILED TO MENTION THAT IT WAS FOR 300 STUDENTS.
 
