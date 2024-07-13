@@ -6,7 +6,7 @@ author: 'Michelle Wang'
 thumbnail: 'https://cloud-lze7wm2z8-hack-club-bot.vercel.app/0thumbnail_letters__1_.png'
 keywords: 'blot, workshop, teaching'
 date: 'July 10th, 2024'
-authorImage: 'https://cloud-3kqvrop70-hack-club-bot.vercel.app/0img_0357.heic'
+authorImage: 'https://cloud-q675qlcu2-hack-club-bot.vercel.app/0image.png'
 color: '#eb8888'
 github: ''
 slug: '300-middle-schoolers'
@@ -25,7 +25,7 @@ After some consideration, we decided to make our workshop on Blot: Hack Club’s
 
 The night before at 11 PM, I decided to make some last-minute edits and when I opened Blot, the whole syntax had changed (I wanted to cry). I stayed up until 1 AM the next day fixing my entire PowerPoint (and Paul brought me coffee since he knew I was going to die on the day of our workshop).
 
-Here are the slides that I made: [Hack Club: MS STEAM Day Blot Workshop!](link) (credit me if used!)
+Here are the slides that I made: [Hack Club: MS STEAM Day Blot Workshop!]((https://docs.google.com/presentation/d/1MuDwQ8bAyBCxME7d69n9S3PnvNXh0-mnznI8_Qed-k8/edit?usp=sharing) (credit me if used!)
 
 After five hours of sleep and multiple hours of panicking, our workshop (surprisingly) went relatively smoothly (until I accidentally unscrewed something and had to search the entire school for an Allen key - but we figured it out). I’m most proud of how we dealt with the malfunctions of Blot during the presentatation.
 
@@ -33,8 +33,6 @@ Our setup had the Blot displayed on a table in the center of a stage and a large
 
 
 ![me teaching a lecture on a stage with the Blot IDLE](https://github.com/michelle12349502039/leaders-letters/assets/74428837/813396b4-488e-4a5e-85ac-909a4d89580e)
-
-
 
 
 Overall, the event went extremely smoothly! Some middle schoolers who were passionate about robotics even questioned us about Blot's parts (like servos and stepper motors). We were so excited about how the workshop was sparking interest in the middle schoolers because many of them wanted to go into computer science/engineering as a future career!
