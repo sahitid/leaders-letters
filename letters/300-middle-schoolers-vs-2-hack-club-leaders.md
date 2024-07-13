@@ -25,7 +25,7 @@ After some consideration, we decided to make our workshop on Blot: Hack Club’s
 
 The night before at 11 PM, I decided to make some last-minute edits and when I opened Blot, the whole syntax had changed (I wanted to cry). I stayed up until 1 AM the next day fixing my entire PowerPoint (and Paul brought me coffee since he knew I was going to die on the day of our workshop).
 
-Here are the slides that I made: (Hack Club: MS STEAM Day Blot Workshop!)[https://docs.google.com/presentation/d/1MuDwQ8bAyBCxME7d69n9S3PnvNXh0-mnznI8_Qed-k8/edit?usp=sharing] (credit me if used!)
+Here are the slides that I made: [Hack Club: MS STEAM Day Blot Workshop!](https://docs.google.com/presentation/d/1MuDwQ8bAyBCxME7d69n9S3PnvNXh0-mnznI8_Qed-k8/edit?usp=sharing) (credit me if used!)
 
 After five hours of sleep and multiple hours of panicking, our workshop (surprisingly) went relatively smoothly (until I accidentally unscrewed something and had to search the entire school for an Allen key - but we figured it out). I’m most proud of how we dealt with the malfunctions of Blot during the presentatation.
 
