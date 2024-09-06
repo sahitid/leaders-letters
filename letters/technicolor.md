@@ -1,6 +1,7 @@
 ---
 title: 'Technicolor 🟦🟪🟥🟧🟨🟩'
-description: 'A Hack Clubber\'s journey, written June 2021.'
+description: >
+  A Hack Clubber's journey, written June 2021.
 author: 'Matthew Stanciu'
 thumbnail: ''
 keywords: 'starting a hack club, hack club, leading a club, coding club, coding club leader, technicolor'
