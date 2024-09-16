@@ -5,7 +5,7 @@ description: >
 author: "Zeyu (Peter) Yao"
 thumbnail: "https://cloud-rgep8ko7v-hack-club-bot.vercel.app/0orpheus.jpg"
 keywords: "singapore, summit, club"
-date: "August 18th, 2024"
+date: "September 6th, 2024"
 authorImage: "https://cloud-93r6xxfe4-hack-club-bot.vercel.app/0profile.jpg"
 color: "#FFCF81"
 github: "https://github.com/cytronicoder"
